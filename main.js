@@ -131,8 +131,16 @@
 
 // 16 - masala
 
-let str = prompt('So\'z kiriting')
-let n = 10
-for(let i = 0 ; i < str.length-1 ; i--){
-        console.log(str[i])
-    }
+// let n = prompt("So'z kiriting");
+
+// for (let i = 0; i < n.length; i++) {
+  
+//   if (isNaN(n[i])) {
+  
+//     console.log(n[i]);
+//   }
+//   else{
+//     console.log(n[i])
+//   }
+// }
+
