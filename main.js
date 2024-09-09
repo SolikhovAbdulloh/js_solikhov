@@ -102,9 +102,6 @@
 // }
 // console.log(`${count} ta bo'sh joy bor`);
 
-
-
-
 // 9 - masala;
 
 // let n = prompt("so'z kiriting");
@@ -131,16 +128,18 @@
 
 // 16 - masala
 
-// let n = prompt("So'z kiriting");
+// let n = "hello";
+
+
+// let arr = n.split("");
+
+
+// arr[3] = "m";
+
+
+// n = arr.join("");
 
 // for (let i = 0; i < n.length; i++) {
-  
-//   if (isNaN(n[i])) {
-  
-//     console.log(n[i]);
-//   }
-//   else{
-//     console.log(n[i])
-//   }
+//   console.log(n[i]);
 // }
 
